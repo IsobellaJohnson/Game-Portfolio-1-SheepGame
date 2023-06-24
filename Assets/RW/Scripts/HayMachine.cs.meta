@@ -3,7 +3,10 @@ guid: eabe00ef960886f41bb29a741b623deb
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - hayBalePrefab: {fileID: 8543458537174190853, guid: b67fd9334ee019542bce625faf0bc56e,
+      type: 3}
+  - haySpawnpoint: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
